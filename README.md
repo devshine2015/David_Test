@@ -1,9 +1,9 @@
 - Run on Local
-npm install
-npm run json
+1. npm install
+2. npm run json
 
-npm install --global react-native-cli
-react-native run-ios
+3. npm install --global react-native-cli
+4. react-native run-ios
 
 - Test with jest
-npm run test
+1. npm run test
