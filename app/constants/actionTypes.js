@@ -1,0 +1,4 @@
+// Common Type
+export const API_LOADING = 'API_LOADING';
+export const OPERATION_FAILED = 'OPERATION_FAILED';
+export const GET_FLAVORS_SUCCESS = 'GET_FLAVORS_SUCCESS';
